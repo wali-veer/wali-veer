@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seasoned technology leader over two decades of experience across SRE, DevOps, cloud platforms, and enterprise application ownership in global banking environments.<br>I specialize in building resilient production systems, large-scale observability platforms, cloud modernization, and cost-optimization programs across AWS and GCP. <br>Recently, I’ve been deepening my focus on AI-driven operations, GenAI, and intelligent automation for engineering teams.<br><br>Currently exploring new opportunities while upskilling and building hands-on AI and cloud projects.
+Seasoned technology leader over two decades of experience across SRE, DevOps, cloud platforms, and enterprise application ownership in global banking environments.<br>I specialize in building resilient production systems, large-scale observability platforms, cloud modernization, and cost-optimization programs across AWS and GCP. <br>Recently, I’ve been deepening my focus on AI-driven operations, GenAI, and intelligent automation for engineering teams.<br><br>Currently exploring new opportunities while actively upskilling and sharpening my hands-on skills and building hands-on AI and cloud projects.
 
 
 ## 🌐 Socials:
