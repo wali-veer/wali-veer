@@ -1,6 +1,7 @@
 # 💫 About Me:
 Seasoned technology leader over two decades of experience across SRE, DevOps, cloud platforms, and enterprise application ownership in global banking environments.<br>I specialize in building resilient production systems, large-scale observability platforms, cloud modernization, and cost-optimization programs across AWS and GCP. <br>Recently, I’ve been deepening my focus on AI-driven operations, GenAI, and intelligent automation for engineering teams.<br><br>Currently exploring new opportunities while actively upskilling and sharpening my hands-on skills and building hands-on AI and cloud projects.
 
+Feel free to connect with me on LinkedIn if you’d like to collaborate or discuss opportunities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veereshcwali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veeresh-wali) 
